@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		935E26F628A380B70072B0F1 /* .gitignore.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 935E26F528A380B70072B0F1 /* .gitignore.rtf */; };
 		93C4FBE228A0F36900A4F68B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93C4FBE128A0F36900A4F68B /* AppDelegate.swift */; };
 		93C4FBE428A0F36900A4F68B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93C4FBE328A0F36900A4F68B /* SceneDelegate.swift */; };
 		93C4FBE628A0F36900A4F68B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93C4FBE528A0F36900A4F68B /* ViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		935E26F528A380B70072B0F1 /* .gitignore.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = .gitignore.rtf; sourceTree = "<group>"; };
 		93C4FBDE28A0F36900A4F68B /* LittlePink-git.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "LittlePink-git.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		93C4FBE128A0F36900A4F68B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		93C4FBE328A0F36900A4F68B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 		93C4FBD528A0F36900A4F68B = {
 			isa = PBXGroup;
 			children = (
+				935E26F528A380B70072B0F1 /* .gitignore.rtf */,
 				93C4FBE028A0F36900A4F68B /* LittlePink-git */,
 				93C4FBF728A0F36C00A4F68B /* LittlePink-gitTests */,
 				93C4FC0128A0F36C00A4F68B /* LittlePink-gitUITests */,
@@ -233,6 +236,7 @@
 			files = (
 				93C4FBEE28A0F36B00A4F68B /* LaunchScreen.storyboard in Resources */,
 				93C4FBEB28A0F36B00A4F68B /* Assets.xcassets in Resources */,
+				935E26F628A380B70072B0F1 /* .gitignore.rtf in Resources */,
 				93C4FBE928A0F36900A4F68B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
